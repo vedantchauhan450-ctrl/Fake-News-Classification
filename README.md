@@ -1,4 +1,4 @@
-# 📰 Fake News Classification
+# 📰 Fake News Classifications
 
 ### Multi-Model NLP Pipeline on the LIAR & WELFake Datasets
 
